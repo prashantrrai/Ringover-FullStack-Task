@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+  background-color: rgb(74, 74, 191);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.showheatmap{
+  margin-top: 40px;
+}
+#showtable{
+  width: 80vw;
+  height: 300px;
+  border-color: black;
+  border-width: 0ch;
+}
+#playername{
+  display: block;
+}
